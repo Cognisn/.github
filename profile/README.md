@@ -1,12 +1,22 @@
-## Hi there 👋
+# Cognisn
 
-<!--
+**Open-source tools, built on the side, shared with everyone.**
 
-**Here are some ideas to get you started:**
+Cognisn is an independent software project focused on building practical, open-source tools for developers. The name draws from *cognition* — the process of understanding through thought and experience — and reflects how every project here is approached: think deeply, build practically, share openly.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| [**Spark**](https://github.com/Cognisn/spark) | A secure, multi-provider AI research platform with MCP tool support, persistent semantic memory, and autonomous scheduled actions. |
+| [**Konfig**](https://github.com/Cognisn/konfig) | Layered settings management, pluggable secrets backends, and structured logging for Python applications. |
+
+## Tech Stack
+
+Most projects here are built with **Python** and lean towards clean, well-tested code with a focus on security and reliability.
+
+## Links
+
+- **Website:** [cognisn.com](https://cognisn.com)
+- **Blog:** [cognisn.com/blog](https://cognisn.com/blog/)
+- **LinkedIn:** [Matthew Westwood-Hill](https://www.linkedin.com/in/mattheww3/)
